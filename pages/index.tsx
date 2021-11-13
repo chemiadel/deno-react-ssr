@@ -1,8 +1,8 @@
-import React from "https://esm.sh/react@17.0.2";
+import React from "react";
 
 export default function Home() {
  
     return <div>
-        Hello
+        Hello! I'm Deno SSR ReactJS sample
     </div>
 }
